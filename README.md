@@ -1,61 +1,128 @@
-# Hi there! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f7ff&height=200&section=header&text=Albert%20Willemse&fontColor=ffffff&fontSize=40" />
+</p>
 
-I'm Albert Willemse, a software developer.
+---
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Albert+Willemse;Backend+Engineer+%7C+C%23+.NET+Developer;API+%26+System+Integration+Specialist;Building+Data+Driven+Systems" />
+</p>
 
-- 💻 I love coding and building software that makes a positive impact.
-- 🌱 Currently exploring new technologies and learning new skills.
-- 🎓 Bsc IT graduate from North-West University.
+---
 
-<!--
-## Current Projects
+## ⚡ About Me
 
-- 🚀 [Project 1](https://github.com/yourusername/project1): Short description of project 1.
-- 🌟 [Project 2](https://github.com/yourusername/project2): Short description of project 2.
--->
+I am a **Backend Software Engineer** specializing in:
 
-## Tech Stack
+* C# / .NET systems
+* REST API development
+* System integration architecture
+* Data transformation pipelines
 
-- Programming Languages: JavaScript, Python, Java, C#, C++
-- Frontend: HTML, CSS, Tailwind
-- Databases: Oracle SQL Developer
-- Tools: Git, VSCode
-<!--- Backend: Node.js, Express -->
+I build systems that **connect platforms, transform data, and automate workflows**.
 
-<!--
-## Open Source Contributions
+---
 
-- 🤝 [Contribution 1](https://github.com/otheruser/repo1): Briefly describe your contribution.
-- 🤝 [Contribution 2](https://github.com/otheruser/repo2): Briefly describe your contribution.
+## 🧠 Engineering Mindset
 
-## Blog Posts
+```csharp
+while (true)
+{
+    BuildSystem();
+    ImproveIntegration();
+    OptimizeDataFlow();
+    LearnNewTech();
+}
+```
 
-- 📝 [Blog Post 1](https://yourblog.com/post1): Title of blog post 1.
-- 📝 [Blog Post 2](https://yourblog.com/post2): Title of blog post 2.
- -->
-## Get in Touch
+---
 
-- 📧 Email: albertjordaanw@gmail.com
-- 💼 LinkedIn: [Albert Willemse](https://www.linkedin.com/in/albert-willemse-b55583284/)
+## 🚀 Current Focus
 
-<!--
-## Fun Fact
+* Building scalable API systems
+* Improving backend architecture skills
+* Working with integration-heavy systems
+* Strengthening .NET engineering depth
 
-I love hiking and have climbed [Mount Everest](https://en.wikipedia.org/wiki/Mount_Everest) twice!
- -->
+---
 
-<!--
-**Albert-Willemse/Albert-Willemse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack Matrix
 
-Here are some ideas to get you started:
+Backend:     C# | .NET | ASP.NET Core | REST APIs  
+Languages:   Java | Python | JavaScript | C++  
+Frontend:    HTML | CSS | Tailwind  
+Database:    Oracle SQL  
+Tools:       Git | Postman | VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience Snapshot
+
+🏢 **d2o – Software Engineer**
+
+* REST API development
+* Hospitality system integrations
+* PMI data workflows
+* Data transformation services
+* Backend automation systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albert-Willemse&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Willemse&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-Willemse&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity & Momentum
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-Willemse&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌌 System Architecture Thinking
+
+```csharp
+// Design principle
+Systems should not just work,
+// they should scale, adapt, and integrate.
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Albert-Willemse">
+    <img src="https://img.shields.io/badge/GitHub-ACTIVE-00ffcc?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.linkedin.com/in/albert-willemse-b55583284">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="mailto:albertjordaanw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-OPEN-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FFAA&center=true&vCenter=true&width=500&lines=Clean+Code+%7C+Scalable+Systems+%7C+Reliable+APIs;Integration+First+Engineering;Data+Driven+Architecture" /> </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f172a&height=120&section=footer"/>
+</p>
+
+```
