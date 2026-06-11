@@ -1,14 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f7ff&height=200&section=header&text=Albert%20Willemse&fontColor=ffffff&fontSize=40" />
 </p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Albert+Willemse;Backend+Engineer+%7C+C%23+.NET+Developer;API+%26+System+Integration+Specialist;Building+Data+Driven+Systems" />
 </p>
-
----
 
 ## ⚡ About Me
 
@@ -68,37 +63,6 @@ Tools:       Git | Postman | VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albert-Willemse&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-Willemse&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albert-Willemse&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity & Momentum
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albert-Willemse&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌌 System Architecture Thinking
-
-```csharp
-// Design principle
-Systems should not just work,
-// they should scale, adapt, and integrate.
-```
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -115,14 +79,9 @@ Systems should not just work,
   </a>
 </p>
 
----
-
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FFAA&center=true&vCenter=true&width=500&lines=Clean+Code+%7C+Scalable+Systems+%7C+Reliable+APIs;Integration+First+Engineering;Data+Driven+Architecture" /> </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f172a&height=120&section=footer"/>
 </p>
-
-```
